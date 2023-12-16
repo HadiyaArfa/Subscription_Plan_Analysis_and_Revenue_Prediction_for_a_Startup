@@ -6,6 +6,7 @@
 This report presents the findings and recommendations from the "Subscription Plan Analysis and Revenue Prediction" project conducted for a startup offering three subscription plans (Alpha, Beta, Gamma). The objective was to analyze customer preferences, predict revenue, and provide insights for maximizing subscription revenue. The project involved exploratory data analysis (EDA), feature engineering, model building, and evaluation.
 
 **Key Findings:**
+
 1.**Customer Preferences:**
 The Beta subscription plan is highly preferred by customers, followed by Alpha and Gamma plans.
 Marketing efforts should be strategically focused on promoting the Beta plan due to its popularity.
