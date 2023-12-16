@@ -9,13 +9,16 @@ This report presents the findings and recommendations from the "Subscription Pla
 1.**Customer Preferences:**
 The Beta subscription plan is highly preferred by customers, followed by Alpha and Gamma plans.
 Marketing efforts should be strategically focused on promoting the Beta plan due to its popularity.
+
 2. **Price Distribution:**
 The Gamma plan has the highest price, followed by Beta and Alpha.
 Pricing strategies should consider the perceived value of each plan to optimize revenue.
-3. **Regional Preferences:**
+
+4. **Regional Preferences:**
 Customer preferences vary by region.
 Customized marketing campaigns for each region can enhance customer engagement and plan adoption.
-4. **Overall Revenue Prediction:**
+
+6. **Overall Revenue Prediction:**
 The Random Forest model outperformed the Linear Regression model in predicting overall revenue.
 Decision-makers should prioritize the use of the Random Forest model for future revenue forecasts.
 
