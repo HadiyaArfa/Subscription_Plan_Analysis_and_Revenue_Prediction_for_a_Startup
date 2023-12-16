@@ -1,0 +1,50 @@
+Customer_ID,Plan_Type,Plan_Price,Signup_Date,Age_Group,Region,Payment_Method
+1,Alpha,500,2023-01-05,25-30,East,Credit Card
+2,Beta,700,2023-01-06,31-35,West,PayPal
+3,Gamma,1200,2023-01-07,20-25,North,Credit Card
+4,Beta,700,2023-01-08,36-40,South,Debit Card
+5,Alpha,500,2023-01-09,41-45,East,UPI
+6,Gamma,1200,2023-01-10,26-30,West,Credit Card
+7,Alpha,500,2023-01-11,31-35,North,PayPal
+8,Beta,700,2023-01-12,46-50,South,Debit Card
+9,Gamma,1200,2023-01-13,21-25,East,Credit Card
+10,Alpha,500,2023-01-14,26-30,West,UPI
+11,Beta,700,2023-01-15,36-40,North,PayPal
+12,Gamma,1200,2023-01-16,41-45,South,Debit Card
+13,Alpha,500,2023-01-17,31-35,East,Credit Card
+14,Beta,700,2023-01-18,46-50,West,UPI
+15,Gamma,1200,2023-01-19,21-25,North,PayPal
+16,Alpha,500,2023-01-20,26-30,South,Debit Card
+17,Beta,700,2023-01-21,36-40,East,Credit Card
+18,Gamma,1200,2023-01-22,41-45,West,UPI
+19,Alpha,500,2023-01-23,31-35,North,PayPal
+20,Beta,700,2023-01-24,46-50,South,Debit Card
+21,Beta,700,2023-01-25,21-26,North,PayPal
+22,Gamma,1200,2023-01-26,26-31,South,Debit Card
+23,Alpha,500,2023-01-27,36-41,East,Credit Card
+24,Beta,700,2023-01-28,41-46,West,UPI
+25,Beta,700,2023-01-29,31-36,North,PayPal
+26,Gamma,1200,2023-01-30,46-51,South,Debit Card
+27,Alpha,500,2023-01-31,21-27,North,PayPal
+28,Beta,700,2023-02-01,26-32,South,Debit Card
+29,Beta,700,2023-02-02,36-42,East,Credit Card
+30,Gamma,1200,2023-02-03,41-47,West,UPI
+31,Alpha,500,2023-02-04,31-37,North,PayPal
+32,Beta,700,2023-02-05,46-52,South,Debit Card
+33,Beta,700,2023-02-06,21-28,North,PayPal
+34,Gamma,1200,2023-02-07,26-33,South,Debit Card
+35,Alpha,500,2023-02-08,36-43,East,Credit Card
+36,Beta,700,2023-02-09,41-48,West,UPI
+37,Beta,700,2023-02-10,31-38,North,PayPal
+38,Gamma,1200,2023-02-11,46-53,South,Debit Card
+39,Alpha,500,2023-02-12,21-29,North,PayPal
+40,Beta,700,2023-02-13,26-34,South,Debit Card
+41,Beta,700,2023-02-14,36-44,East,Credit Card
+42,Gamma,1200,2023-02-15,41-49,West,UPI
+43,Alpha,500,2023-02-16,31-39,North,PayPal
+44,Beta,700,2023-02-17,46-54,South,Debit Card
+45,Beta,700,2023-02-18,21-30,North,PayPal
+46,Gamma,1200,2023-02-19,26-35,South,Debit Card
+47,Alpha,500,2023-02-20,36-45,East,Credit Card
+48,Alpha,500,2023-02-21,41-50,West,UPI
+49,Alpha,500,2023-02-22,31-40,North,PayPal
